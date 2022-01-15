@@ -127,8 +127,6 @@ for i in range(1):
 print('\n','min is: ',round(min,2),'\n','max is: ',round(max,2))
 '''вывод миниального и максимального чисел'''
 
-
-
 g = float(input('enter number '))
 '''создание первого числа'''
 

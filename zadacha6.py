@@ -28,7 +28,6 @@ while my_number <= 10 and my_number >= 0:
     else:
         break
 print ("У Вас осталась ещё 1 попытка!")
-
 my_number = int(input("Введите число от 0 до 10: "))
 print ("Ваше число: ", my_number)
 random_number = rd.randint(0,10)
